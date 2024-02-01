@@ -61,7 +61,12 @@ Develop a predictive model leveraging machine learning algorithms to accurately 
 
 ### Data Visualization
 1. Sunburst Diagram : To find the trends in dataset
+
+![Screenshot](Images/chart_.png)
+
 2. Bar Graphs : To know the patterns and insights from dataset.
+
+![Screenshot](Images/BarChart.png)
 
 ## Models
 
