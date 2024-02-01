@@ -52,6 +52,7 @@ Develop a predictive model leveraging machine learning algorithms to accurately 
 - Duplicate Values: No duplicate values in the dataset.
 - Missing Values: No null values in the dataset.
 - Outliers: No outliers, visualized using Boxplot.
+- Smote technique is used to balance the data.
 
 ### Checking Data Normality
 
@@ -59,15 +60,16 @@ Develop a predictive model leveraging machine learning algorithms to accurately 
 2. Experiance_in_Domain & years_in_company both Approximately follows Gaussian distribution curve.
 
 ### Data Visualization
-
-1. Sunburst Diagram: Depicting relationships between Age, Bench Status, Gender, City, Education, and the target variable (Leave/Not Leave).
-2. Bar Graphs: Representing different age categories and their relation to the target variable.
+1. Sunburst Diagram : To find the trends in dataset
+2. Bar Graphs : To know the patterns and insights from dataset.
 
 ## Models
 
 1. Logistic Regression
 2. Decision Tree Classifier
 3. Random Forest Classifier
+
+## Interpreatation
 
 ![Screenshot](Images/cp_co.png)
 
