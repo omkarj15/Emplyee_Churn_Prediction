@@ -69,7 +69,7 @@ Develop a predictive model leveraging machine learning algorithms to accurately 
 2. Decision Tree Classifier
 3. Random Forest Classifier
 
-![Screenshot](.Images/cp_co.png)
+![Screenshot](Images/cp_co.png)
 
 ## Conclusion
 
