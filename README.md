@@ -56,7 +56,7 @@ Develop a predictive model leveraging machine learning algorithms to accurately 
 ### Checking Data Normality
 
 1. Age column converted from numerical data into groups (Positive Skewness).
-2. Approximately follows Gaussian distribution curve.
+2. Experiance_in_Domain & years_in_company both Approximately follows Gaussian distribution curve.
 
 ### Data Visualization
 
