@@ -69,6 +69,8 @@ Develop a predictive model leveraging machine learning algorithms to accurately 
 2. Decision Tree Classifier
 3. Random Forest Classifier
 
+![Screenshot](.Images/cp_co.png)
+
 ## Conclusion
 
 Random Forest exhibits the highest accuracy, precision, F1 score, and recall. These results underscore the effectiveness of Random Forest in accurately predicting outcomes, highlighting its potential as a powerful tool for the given task. It is recommended to use the Random Forest model for live predictions of employee churn.
